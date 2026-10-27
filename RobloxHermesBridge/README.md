@@ -10,7 +10,7 @@ Clone the repository and run the automated installer:
 
 ```bash
 git clone https://github.com/liptz341/RobloxHermesBridge.git
-cd RobloxHermesBridge
+cd RobloxHermesBridge/RobloxHermesBridge
 python setup.py
 ```
 
