@@ -9,7 +9,7 @@ Connect **Hermes Agent** and **9Router AI Gateway** directly to **Roblox Studio*
 Clone the repository and run the automated installer:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RobloxHermesBridge.git
+git clone [(https://github.com/liptz341/RobloxHermesBridge/tree/main/RobloxHermesBridge)]
 cd RobloxHermesBridge
 python setup.py
 ```
